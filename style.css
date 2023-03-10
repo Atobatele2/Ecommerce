@@ -937,6 +937,10 @@ footer .copyright {
   padding: 10px;
   font-size: 13px;
 }
+
+.round-image {
+  border-radius: 50%;
+}
 /* Start Media Query */
 @media (max-width: 799px) {
   .section-p1 {
